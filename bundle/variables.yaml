@@ -1,0 +1,4 @@
+variables:
+- team: ferruccio-dsgcore-cloudbees-workshop
+- admin-user: ferrucciobongianni-admin
+- manager-user: ferrucciobongianni
